@@ -1,4 +1,5 @@
 # Scripts To Rule Them All
+https://github.com/github/scripts-to-rule-them-all
 
 This is a set of boilerplate scripts describing the [normalized script pattern
 that GitHub uses in its projects](http://githubengineering.com/scripts-to-rule-them-all/). While these
